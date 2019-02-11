@@ -1,0 +1,23 @@
+{
+  "name": "fbchatbot",
+  "version": "1.0.0",
+  "description": "some random node js fb chat bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EddieLukeAtmey/SomeRandomFBot.git"
+  },
+  "author": "Eddie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EddieLukeAtmey/SomeRandomFBot/issues"
+  },
+  "homepage": "https://github.com/EddieLukeAtmey/SomeRandomFBot#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
